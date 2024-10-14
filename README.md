@@ -5,6 +5,7 @@ TN LaFlam, CB Billesbolle, et al. Identification of heterogeneous effects of cod
 
 Included files: 
 - Sequencing analysis scripts, using FastQC, BBTools, and GATK 
-- Jupyter notebook and R script for regression score generation and analysis
+- R script for z-score calculation
+- Jupyter notebook and R script for regression score generation and correlation calculations
 
 File names begin with number indicating order of use 
