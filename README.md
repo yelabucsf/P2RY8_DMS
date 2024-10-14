@@ -4,7 +4,7 @@ This repository contains scripts used in the P2RY8 deep mutational scanning work
 TN LaFlam, CB Billesbolle, et al. Identification of heterogeneous effects of coding variants in the GPCR P2RY8. 2024. Submitted. 
 
 Included files: 
-- Sequencing analysis scripts, using FastQC, BBTools, and GATK 
+- Sequencing analysis scripts, using BBTools and GATK 
 - R script for z-score calculation
 - Jupyter notebook and R script for regression score generation and correlation calculations
 
