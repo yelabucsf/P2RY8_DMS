@@ -9,3 +9,5 @@ Included files:
 - Jupyter notebook and R script for regression score generation and correlation calculations
 
 File names begin with number indicating order of use 
+
+Sequencing files used in this analysis have been deposited in SRA under BioProject PRJNA1179413 and are publicly available as of the date of manuscript publication. 
