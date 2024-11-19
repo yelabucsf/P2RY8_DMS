@@ -1,7 +1,7 @@
 # P2RY8_DMS
 
 This repository contains scripts used in the P2RY8 deep mutational scanning work, as described in:
-TN LaFlam, CB Billesbolle, et al. Identification of heterogeneous effects of coding variants in the GPCR P2RY8. 2024. Submitted. 
+TN LaFlam, CB Billesbolle, et al. Phenotypic pleiotropy of missense variants in human B-cell confinement receptor P2RY8. 2024. Submitted. 
 
 Included files: 
 - Sequencing analysis scripts, using BBTools and GATK 
