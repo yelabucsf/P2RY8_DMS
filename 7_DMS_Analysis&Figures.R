@@ -251,15 +251,15 @@ Missense_var <- All_var %>% filter(var_type == "Missense")
 # Output results for use in creating supplemental tables, analysis in 
 # Prism, etc. 
 write_csv(All_var, 
-          "~/Cyster-Ye/Comp Bio/P2RY8_SatMut/C042_PSM_2/All_var.csv", 
+          "OutputPath/All_var.csv", 
           col_names = T)
 
 write_csv(Missense_var, 
-          "~/Cyster-Ye/Comp Bio/P2RY8_SatMut/C042_PSM_2/Missense_var.csv", 
+          "OutputPath/Missense_var.csv", 
           col_names = T)
 
 write_csv(Results_by_pos, 
-          "~/Cyster-Ye/Comp Bio/P2RY8_SatMut/C042_PSM_2/Results_by_pos.csv", 
+          "OutputPath/Results_by_pos.csv", 
           col_names = T)
 
 ########################
