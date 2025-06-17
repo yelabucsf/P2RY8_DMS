@@ -6,7 +6,8 @@ TN LaFlam, CB Billesbolle, et al. Phenotypic pleiotropy of missense variants in 
 Included files: 
 - Sequencing analysis scripts, using BBTools and GATK 
 - R script for z-score calculation
-- Jupyter notebook for ESM1b fine-tuning and one-hot-encoding ridge regressions. 
+- Jupyter notebook for ESM1b fine-tuning and one-hot-encoding ridge regressions
+- R script for additional DMS analysis and for those figure plots made in R 
 
 File names begin with number indicating order of use 
 
